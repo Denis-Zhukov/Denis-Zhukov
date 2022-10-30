@@ -1,12 +1,12 @@
 ## Hey there 👋, I'm Denis 😁!
 
-## About
+## 📃About
 
 Hello! My name is Denis Zhukov and I'm 3-d year student at [State Technical University Of Gomel](https://www.gstu.by/)
 majoring in informatics and programming technologies. I'm a front-end software developer. My technology stack consists
 HTML, CSS, SCSS, JavaScript, TypeScript, React, Redux, Redux Toolkit, Jest.
 
-## Contacts
+## 📞Contacts
 
 * [Gmail](mailto:DenisZhukov.Hachiko@gmail.com)
 * [Telegram](https://t.me/Denis_Zhukov_Hachiko)
