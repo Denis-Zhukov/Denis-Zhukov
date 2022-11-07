@@ -1,12 +1,12 @@
 ## Hey there 👋, I'm Denis 😁!
 
-## 📃About
+## 📃 About
 
 Hello! My name is Denis Zhukov and I'm 3-d year student at [State Technical University Of Gomel](https://www.gstu.by/)
 majoring in informatics and programming technologies. I'm a front-end software developer. My technology stack consists
 HTML, CSS, SCSS, JavaScript, TypeScript, React, Redux, Redux Toolkit, Jest.
 
-## 📞Contacts
+## 📞 Contacts
 
 * [Gmail](mailto:DenisZhukov.Hachiko@gmail.com)
 * [Telegram](https://t.me/Denis_Zhukov_Hachiko)
@@ -26,7 +26,7 @@ HTML, CSS, SCSS, JavaScript, TypeScript, React, Redux, Redux Toolkit, Jest.
 <img src="https://img.shields.io/badge/Web%20Storm-282C34?logo=WebStorm&logoColor=007ACC" alt="Web Storm logo" title="Web Storm" height="25" />
 </p>
 
-## 📊Stats
+## 📊 Stats
 
 ![HachikoR's github stats](https://github-readme-stats.vercel.app/api?username=HachikoR&show_icons=true&theme=dracula)<br/>
 ![HachikoR's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HachikoR&layout=compact&theme=dracula)
