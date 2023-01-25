@@ -28,6 +28,6 @@ HTML, CSS, SCSS, JavaScript, TypeScript, React, Redux, Redux Toolkit, Jest.
 
 ## 📊 Stats
 
-![HachikoR's github stats](https://github-readme-stats.vercel.app/api?username=HachikoR&show_icons=true&theme=dracula)<br/>
-![HachikoR's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HachikoR&layout=compact&theme=dracula)
+![HachikoR's github stats](https://github-readme-stats.vercel.app/api?username=Denis-Zhukov&show_icons=true&theme=dracula)<br/>
+![HachikoR's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Zhukov&layout=compact&theme=dracula)
 
