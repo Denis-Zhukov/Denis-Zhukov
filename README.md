@@ -22,8 +22,8 @@ HTML, CSS, SCSS, JavaScript, TypeScript, React, Redux, Redux Toolkit, Jest.
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />  
 <br/>
 <img src="https://img.shields.io/badge/React-282C34?logo=react" alt="React logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" /> 
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=nextdotjs&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />  
 <br/>
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express logo" title="Express" height="25" />
 <img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=e0234e" alt="NestJS logo" title="NestJS" height="25" />  
