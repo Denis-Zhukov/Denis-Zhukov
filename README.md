@@ -28,6 +28,10 @@ HTML, CSS, SCSS, JavaScript, TypeScript, React, Redux, Redux Toolkit, Jest.
 <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express logo" title="Express" height="25" />
 <img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=e0234e" alt="NestJS logo" title="NestJS" height="25" />  
 <br/>
+<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL logo" title="MySQL" height="25" />
+<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql" alt="PostgreSQL logo" title="PostgreSQL" height="25" />  
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDB logo" title="MongoDB" height="25" />  
+<br/>
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="git" height="25" />
 <img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="25" />
 <img src="https://img.shields.io/badge/Web%20Storm-282C34?logo=WebStorm&logoColor=007ACC" alt="Web Storm logo" title="Web Storm" height="25" />
