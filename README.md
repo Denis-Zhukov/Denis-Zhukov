@@ -2,7 +2,7 @@
 
 ## 📃 About
 
-Hello! My name is Denis Zhukov and I'm 3-d year student at [State Technical University Of Gomel](https://www.gstu.by/)
+Hello! My name is Denis Zhukov and I'm 4-d year student at [State Technical University Of Gomel](https://www.gstu.by/)
 majoring in informatics and programming technologies. I'm a front-end software developer. My technology stack consists
 HTML, CSS, SCSS, JavaScript, TypeScript, React, Next.js, Redux, Redux Toolkit, Express, NestJS, Jest.
 
