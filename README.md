@@ -10,7 +10,7 @@ HTML, CSS, SCSS, JavaScript, TypeScript, React, Next.js, Redux, Redux Toolkit, E
 
 * [Gmail](mailto:DenisZhukov.Hachiko@gmail.com)
 * [Telegram](https://t.me/Denis_Zhukov_Hachiko)
-* [LinkedIn](https://www.linkedin.com/in/deniszhukovh/)
+* [LinkedIn](https://www.linkedin.com/in/zhukov-dv/)
 
 ## 🛠Technologies and tools
 
